@@ -1,4 +1,4 @@
-# DdcImportExcel
+# DDC Import Excel to Revit
 ## Import parameter values from Excel
 
  Add-in allows to import parameter values from Excel database, created with [DataDrivenConstruction Excel Add-in](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/) or [DDC Revit converter](https://datadrivenconstruction.io/index.php/convertors/).
