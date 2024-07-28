@@ -6,8 +6,10 @@
 ## Supported Revit versions
 
 Revit 2020-2024
+<div align="center">
+  <img src="https://datadrivenconstruction.io/wp-content/uploads/2024/07/project-data-1.gif" width="900" />
+</div>
 
-![enter image description here](https://datadrivenconstruction.io/wp-content/uploads/2024/07/project-data-1.gif)
 
 ## Installation
 
