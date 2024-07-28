@@ -7,8 +7,7 @@
 
 Revit 2020-2024
 
-![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://datadrivenconstruction.io/wp-content/uploads/2024/07/project-data-1.gif)
-
+![enter image description here](https://datadrivenconstruction.io/wp-content/uploads/2024/07/project-data-1.gif)
 
 ## Installation
 
