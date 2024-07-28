@@ -6,9 +6,9 @@
 ## Supported Revit versions
 
 Revit 2020-2024
-  
-[enter image description here](https://datadrivenconstruction.io/wp-content/uploads/2024/07/project-data.gif)
 
+  
+![DDC Excel to Revit](https://datadrivenconstruction.io/wp-content/uploads/2024/07/project-data.gif)
 
 ## Installation
 
