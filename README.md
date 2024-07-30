@@ -3,7 +3,7 @@
 
  Add-in allows to import parameter values from Excel database, created with [DataDrivenConstruction Excel Add-in](https://datadrivenconstruction.io/index.php/ddc-excel-plugin-for-working-with-revit-ifc-and-dwg/) or [DDC Revit converter](https://datadrivenconstruction.io/index.php/convertors/).
 
-![enter image description here](https://datadrivenconstruction.io/wp-content/uploads/2024/07/youtube-logo-youtube-icon-transparent-free-png.png) Check out our [Revit Tutorial: Update parameters using Excel data | Step-by-Step Guide
+![enter image description here](https://datadrivenconstruction.io/wp-content/uploads/2024/07/youtube-logo-youtube-icon-transparent-free-png-1.png) Check out our [Revit Tutorial: Update parameters using Excel data | Step-by-Step Guide
 ](https://www.youtube.com/watch?v=lMTcacVK-k4&ab_channel=DataDrivenConstruction) for more information.
 
 
