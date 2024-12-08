@@ -31,9 +31,10 @@ Revit 2020-2024
 
 - If no such sheet is found, the add-in will ask you to enter the name of the required sheet.
 
-3. After importing, the log file saved in the Windows temporary folder will be prompted to be opened (for example, in Notepad).
+3. After importing, the log file saved in the Windows temporary folder will be prompted to be opened (for example, in Notepad).\
+## Trouble-shooting
 
-  
+If you don't have changes to Revit. Try changing the name in the Name parameter and remove the “: String” parameter type so that only “Name” remains
 
 ## Features
 
