@@ -9,7 +9,7 @@
 
 ## Supported Revit versions
 
-Revit 2020-2024
+Revit 2020-2026
 
 ![enter image description here](https://datadrivenconstruction.io/wp-content/uploads/2024/07/project-data-3.gif)
 
