@@ -15,7 +15,7 @@ Revit 2020-2026
 
 ## Installation
 
- To install for Revit 20XX run `\DdcImportExcel\DdcImportExcel.Installer\output\DdcImportExcel-<version>-Revit20XX.msi`. Then restart all Revit instances if some were running.
+If you already have a previous version of the plugin installed, you must first remove it. To install for Revit 20XX run `\DdcImportExcel\DdcImportExcel.Installer\output\DdcImportExcel-<version>-Revit20XX.msi`. Then restart all Revit instances if some were running.
 
 ## Usage
 
